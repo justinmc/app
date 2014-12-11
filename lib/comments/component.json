@@ -1,0 +1,13 @@
+{
+  "name": "comments",
+  "description": "loads comments",
+  "dependencies": {
+    "component/bus": "0.0.2"
+  },
+  "locals": [
+    "citizen",
+    "stateful"
+  ],
+  "scripts": [ "comments.js", "index.js" ],
+  "main": "index.js"
+}
